@@ -28,4 +28,23 @@ body {
     font-style: italic;
 }
 
+.work {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding:10px;
+}
 
+.return {
+    text-align: center;
+
+}
+
+.my-work{
+    text-align: center;
+}
+
+.title-work {
+    text-align: center;
+}
