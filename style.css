@@ -1,0 +1,31 @@
+body {
+    margin: 20px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 10px;
+    background-color: rgb(243, 229, 210);
+    border: 2px solid rgb(168, 158, 143);
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+    
+}
+
+.avatar {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.border-blue {
+    border-color: 10px blue dotted;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
